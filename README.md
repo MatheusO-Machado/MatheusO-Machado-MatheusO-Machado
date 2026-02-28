@@ -1,7 +1,10 @@
+<!-- README do perfil: MatheusO-Machado -->
+
 <h1 align="center">Matheus de Oliveira Machado</h1>
 
 <p align="center">
-  <b>Estudante de Ciência da Computação</b> • Java / JavaFX • SQL (SQLite/MySQL) • Git/GitHub
+  <b>Estudante de Ciência da Computação (3º semestre)</b><br/>
+  Java / JavaFX • SQL (SQLite/MySQL) • Git/GitHub • HTML/CSS/JavaScript (em estudo)
 </p>
 
 <p align="center">
@@ -18,38 +21,54 @@
   <img alt="Git/GitHub" src="https://img.shields.io/badge/Git%2FGitHub-Versionamento-0b5fff?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-Em%20estudo-0b5fff?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-Em%20estudo-0b5fff?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Em%20estudo-0b5fff?style=for-the-badge&logo=javascript&logoColor=111">
+</p>
+
 ---
 
 ## Sobre mim
-Sou estudante de **Ciência da Computação** e uso este perfil como portfólio para mostrar minha evolução em **desenvolvimento de software**, **banco de dados** e fundamentos de **segurança da informação**.
+Uso este GitHub como **portfólio** para registrar projetos e evolução prática em **desenvolvimento de software**, **banco de dados** e fundamentos de **segurança da informação**.
 
-Gosto de projetos com **regras de negócio claras**, foco em **integridade dos dados** (validações e chaves estrangeiras) e organização em camadas para facilitar manutenção.
+Tenho interesse em construir sistemas com:
+- **regras de negócio claras**
+- **consistência de dados** (validações + integridade referencial)
+- código organizado e fácil de manter (camadas, legibilidade e refatoração)
+
+🎯 **Objetivo:** estágio ou vaga júnior em TI (Desenvolvimento, Banco de Dados ou Segurança).
 
 ---
 
 ## Foco atual
-- Consolidar **Java / JavaFX** em aplicações desktop
-- Evoluir em **SQL** (modelagem, consultas e integridade)
-- Melhorar arquitetura, legibilidade e boas práticas (refactor + consistência)
+- **Java / JavaFX:** aplicações desktop e interface (FXML + CSS)
+- **SQL (SQLite/MySQL):** modelagem, relacionamentos e integridade
+- **Web (em estudo):** HTML, CSS e JavaScript
+- **Git/GitHub:** versionamento e documentação de projetos (READMEs melhores)
 
 ---
 
 ## Projeto em destaque
 ### StockControl — Controle de Estoque (JavaFX + SQLite)
-Sistema desktop de controle de estoque com **movimentações de entrada/saída**, alertas de estoque e integridade via FK.
+Aplicação desktop com foco em **movimentações de estoque (entrada/saída)**, integridade (FK) e migrações de banco.
 
 🔗 Repositório: https://github.com/MatheusO-Machado/stockcontrol
 
-**O que o projeto demonstra na prática**
+**O que o projeto demonstra**
 - Estoque calculado por movimentações (histórico preservado)
-- Inativação/Reativação (soft delete)
-- Migrações de banco via `PRAGMA user_version`
-- UI JavaFX (FXML + CSS)
+- Integridade via **Foreign Keys** e regras de exclusão
+- **Inativar/Reativar** (soft delete) para manter histórico
+- Migrações via `PRAGMA user_version`
+- UI JavaFX com destaque de **estoque baixo/zerado**
 
 ---
 
-## Próximos passos
-- Relatórios (exportação CSV/PDF)
-- Melhorias no dashboard (métricas)
-- Aprofundar SQL (consultas e modelagem)
-- Segurança aplicada (boas práticas)
+## Próximos passos (roadmap)
+- Relatórios (CSV/PDF) e melhorias no dashboard
+- Mini-projetos Web para praticar JavaScript (ex.: To-do, formulários, consumo de API)
+- Aprofundar SQL (consultas, índices e boas práticas)
+- Segurança aplicada: boas práticas e fundamentos
+
+---
+Se quiser conversar sobre o StockControl (decisões de arquitetura, banco ou UI), me chama no LinkedIn.
