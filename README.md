@@ -1,49 +1,55 @@
-# Matheus de Oliveira Machado
-**Ciência da Computação (3º semestre) | Desenvolvimento de Software | Banco de Dados | Segurança da Informação**
+<h1 align="center">Matheus de Oliveira Machado</h1>
 
-📍 Guanambi – BA  
-📧 matheusoliveiramachado204@gmail.com  
-📱 (77) 99818-9461  
-🔗 LinkedIn: https://linkedin.com/in/matheus-de-oliveira-machado  
+<p align="center">
+  <b>Estudante de Ciência da Computação</b> • Java / JavaFX • SQL (SQLite/MySQL) • Git/GitHub
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/matheus-de-oliveira-machado">LinkedIn</a> •
+  <a href="mailto:matheusoliveiramachado204@gmail.com">Email</a> •
+  <a href="https://github.com/MatheusO-Machado?tab=repositories">Repositórios</a>
+</p>
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-21-0b5fff?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-Desktop-0b5fff?style=for-the-badge">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-JDBC-0b5fff?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-0b5fff?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Git/GitHub" src="https://img.shields.io/badge/Git%2FGitHub-Versionamento-0b5fff?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 ---
 
 ## Sobre mim
-Sou estudante de Ciência da Computação com foco em **desenvolvimento de sistemas** e interesse forte em **segurança**.  
-Gosto de aprender na prática e transformar ideias em projetos funcionais, organizados e bem documentados.
+Sou estudante de **Ciência da Computação** e uso este perfil como portfólio para mostrar minha evolução em **desenvolvimento de software**, **banco de dados** e fundamentos de **segurança da informação**.
 
-**Atualmente estudando/atuando com:** Java, JavaFX, C#, MySQL, Git/GitHub, HTML/CSS/JS (em evolução) e jogos (Unity/Unreal).
-
----
-
-## Portfólio (Projetos)
-### 📦 StockControl — Controle de Estoque
-Repositório: https://github.com/MatheusO-Machado/stockcontrol  
-**O que é:** sistema de controle de estoque com foco em cadastro, movimentação e organização de produtos.  
-**Tech stack:** (preencha: ex. Java / JavaFX / MySQL)  
-**Destaques:**
-- Cadastro e gerenciamento de produtos
-- (adicione 2–4 features reais do seu projeto)
-- (adicione outra feature)
-
-👉 *Sugestão:* adicione prints/GIF do sistema no README do projeto para ficar “apresentável” no LinkedIn.
+Gosto de projetos com **regras de negócio claras**, foco em **integridade dos dados** (validações e chaves estrangeiras) e organização em camadas para facilitar manutenção.
 
 ---
 
-## Competências
-- **Back-end / Desktop:** Java, JavaFX, C#  
-- **Banco de dados:** MySQL  
-- **Versionamento:** Git e GitHub  
-- **Games / 3D:** Unity, Unreal (Blueprints), 3Ds Max  
-- **Design:** Photoshop (avançado), CorelDRAW  
+## Foco atual
+- Consolidar **Java / JavaFX** em aplicações desktop
+- Evoluir em **SQL** (modelagem, consultas e integridade)
+- Melhorar arquitetura, legibilidade e boas práticas (refactor + consistência)
 
 ---
 
-## Objetivo
-Busco **estágio** ou **vaga júnior** em TI, com foco em **Desenvolvimento de Software**, **Banco de Dados** ou **Segurança da Informação**, para aplicar e expandir meus conhecimentos.
+## Projeto em destaque
+### StockControl — Controle de Estoque (JavaFX + SQLite)
+Sistema desktop de controle de estoque com **movimentações de entrada/saída**, alertas de estoque e integridade via FK.
+
+🔗 Repositório: https://github.com/MatheusO-Machado/stockcontrol
+
+**O que o projeto demonstra na prática**
+- Estoque calculado por movimentações (histórico preservado)
+- Inativação/Reativação (soft delete)
+- Migrações de banco via `PRAGMA user_version`
+- UI JavaFX (FXML + CSS)
 
 ---
 
-## Contato
-Se quiser conversar sobre oportunidades, projetos ou colaboração:  
-📧 **matheusoliveiramachado204@gmail.com**
+## Próximos passos
+- Relatórios (exportação CSV/PDF)
+- Melhorias no dashboard (métricas)
+- Aprofundar SQL (consultas e modelagem)
+- Segurança aplicada (boas práticas)
